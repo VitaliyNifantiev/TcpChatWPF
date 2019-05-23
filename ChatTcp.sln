@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatTcp", "ChatTcp\ChatTcp.csproj", "{3B3A272C-0E09-4D25-87AA-875DDAF19255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatServer", "ChatServer\ChatServer.csproj", "{BDBABFA9-7A50-48EE-802D-65E413D73DD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageLib", "MessageLib\MessageLib.csproj", "{55C2AECD-C8DF-4A1E-8FFC-400129932C63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B3A272C-0E09-4D25-87AA-875DDAF19255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3A272C-0E09-4D25-87AA-875DDAF19255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3A272C-0E09-4D25-87AA-875DDAF19255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3A272C-0E09-4D25-87AA-875DDAF19255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDBABFA9-7A50-48EE-802D-65E413D73DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBABFA9-7A50-48EE-802D-65E413D73DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBABFA9-7A50-48EE-802D-65E413D73DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBABFA9-7A50-48EE-802D-65E413D73DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55C2AECD-C8DF-4A1E-8FFC-400129932C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C2AECD-C8DF-4A1E-8FFC-400129932C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C2AECD-C8DF-4A1E-8FFC-400129932C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C2AECD-C8DF-4A1E-8FFC-400129932C63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {813D79A3-F68D-43F2-A207-490F5C5EA1E2}
+	EndGlobalSection
+EndGlobal
