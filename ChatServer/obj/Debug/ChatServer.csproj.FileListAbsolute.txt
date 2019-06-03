@@ -94,3 +94,15 @@ C:\Users\Acer\Downloads\ChatTcpFinal\ChatTcpFinal\ChatServer\obj\Debug\ChatServe
 C:\Users\Acer\Downloads\ChatTcpFinal\ChatTcpFinal\ChatServer\obj\Debug\ChatServer.csproj.CopyComplete
 C:\Users\Acer\Downloads\ChatTcpFinal\ChatTcpFinal\ChatServer\obj\Debug\ChatServer.exe
 C:\Users\Acer\Downloads\ChatTcpFinal\ChatTcpFinal\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\Acer\Downloads\ChatTcpFinal_____22.05.2018\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\Acer\Downloads\ChatTcpFinal_____22.05.2018\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\Acer\Downloads\ChatTcpFinal_____22.05.2018\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\Acer\Downloads\ChatTcpFinal_____22.05.2018\ChatServer\bin\Debug\MessageLib.dll
+C:\Users\Acer\Downloads\ChatTcpFinal_____22.05.2018\ChatServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Acer\Downloads\ChatTcpFinal_____22.05.2018\ChatServer\bin\Debug\MessageLib.pdb
+C:\Users\Acer\Downloads\ChatTcpFinal_____22.05.2018\ChatServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Acer\Downloads\ChatTcpFinal_____22.05.2018\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+C:\Users\Acer\Downloads\ChatTcpFinal_____22.05.2018\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\ChatTcpFinal_____22.05.2018\ChatServer\obj\Debug\ChatServer.csproj.CopyComplete
+C:\Users\Acer\Downloads\ChatTcpFinal_____22.05.2018\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\Acer\Downloads\ChatTcpFinal_____22.05.2018\ChatServer\obj\Debug\ChatServer.pdb
